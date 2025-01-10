@@ -1,6 +1,5 @@
 
 >	module Pictures where
-
 >	type Picture = [[Char]]
 
 The example used in Craft2e: a polygon which looks like a horse. Here
